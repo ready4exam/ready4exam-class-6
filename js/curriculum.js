@@ -183,7 +183,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Urban Administration",
-        "table_id": "",
+        "table_id": "social_urban_administration_6_quiz",
         "section": "Social Science"
       },
       {
