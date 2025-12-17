@@ -261,7 +261,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Integers",
-        "table_id": "",
+        "table_id": "mathematics_integers_integers_6_quiz",
         "section": "Mathematics"
       },
       {
