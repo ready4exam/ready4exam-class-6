@@ -230,7 +230,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "India: Climate, Vegetation and Wildlife",
-        "table_id": "",
+        "table_id": "social_india_wildlife_6_quiz",
         "section": "Social Science"
       }
     ],
