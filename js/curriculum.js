@@ -8,7 +8,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Electricity and Circuits",
-        "table_id": "",
+        "table_id": "science_electricity_circuits_6_quiz",
         "section": "Science"
       },
       {
