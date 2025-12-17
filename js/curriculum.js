@@ -116,7 +116,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Kingdoms, Kings and an Early Republic",
-        "table_id": "",
+        "table_id": "social_kingdoms_republic_6_quiz",
         "section": "Social Science"
       },
       {
