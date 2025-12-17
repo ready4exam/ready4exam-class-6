@@ -96,7 +96,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "On The Trail of the Earliest People",
-        "table_id": "",
+        "table_id": "social_trail_people_6_quiz",
         "section": "Social Science"
       },
       {
