@@ -30,7 +30,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Separation of Substances",
-        "table_id": "",
+        "table_id": "science_separation_substances_6_quiz",
         "section": "Science"
       },
       {
