@@ -266,7 +266,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Fractions",
-        "table_id": "",
+        "table_id": "mathematics_fractions_fractions_6_quiz",
         "section": "Mathematics"
       },
       {
