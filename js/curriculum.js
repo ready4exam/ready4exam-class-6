@@ -251,7 +251,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Whole Numbers",
-        "table_id": "",
+        "table_id": "mathematics_whole_numbers_6_quiz",
         "section": "Mathematics"
       },
       {
