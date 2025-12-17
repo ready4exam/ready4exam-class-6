@@ -57,7 +57,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Getting to Know Plants",
-        "table_id": "",
+        "table_id": "science_getting_plants_6_quiz",
         "section": "Science"
       },
       {
