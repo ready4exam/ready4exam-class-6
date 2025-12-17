@@ -77,7 +77,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Air Around Us",
-        "table_id": "",
+        "table_id": "science_air_us_6_quiz",
         "section": "Science"
       },
       {
