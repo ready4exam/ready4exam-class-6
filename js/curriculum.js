@@ -42,7 +42,7 @@ export const curriculum = {
     "Biology": [
       {
         "chapter_title": "Food: Where does it Come From?",
-        "table_id": "",
+        "table_id": "science_food_from_6_quiz",
         "section": "Science"
       },
       {
