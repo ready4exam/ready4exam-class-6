@@ -246,7 +246,7 @@ export const curriculum = {
     "Number System & Arithmetic": [
       {
         "chapter_title": "Knowing Our Numbers",
-        "table_id": "",
+        "table_id": "mathematics_knowing_numbers_6_quiz",
         "section": "Mathematics"
       },
       {
