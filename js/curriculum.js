@@ -295,7 +295,7 @@ export const curriculum = {
     "Geometry & Mensuration": [
       {
         "chapter_title": "Basic Geometrical Ideas",
-        "table_id": "",
+        "table_id": "mathematics_basic_ideas_6_quiz",
         "section": "Mathematics"
       },
       {
