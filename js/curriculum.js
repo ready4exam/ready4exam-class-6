@@ -106,7 +106,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "In the Earliest Cities",
-        "table_id": "",
+        "table_id": "social_earliest_cities_6_quiz",
         "section": "Social Science"
       },
       {
