@@ -237,7 +237,7 @@ export const curriculum = {
     "Economics": [
       {
         "chapter_title": "Livelihoods (from Civics, contains economic elements)",
-        "table_id": "",
+        "table_id": "social_livelihoods_elements_6_quiz",
         "section": "Social Science"
       }
     ]
