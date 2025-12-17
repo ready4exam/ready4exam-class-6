@@ -188,7 +188,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Livelihoods",
-        "table_id": "",
+        "table_id": "social_livelihoods_livelihoods_6_quiz",
         "section": "Social Science"
       }
     ],
