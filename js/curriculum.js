@@ -168,7 +168,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Key Elements of a Democratic Government",
-        "table_id": "",
+        "table_id": "social_key_government_6_quiz",
         "section": "Social Science"
       },
       {
