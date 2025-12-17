@@ -173,7 +173,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Panchayati Raj",
-        "table_id": "",
+        "table_id": "social_panchayati_raj_6_quiz",
         "section": "Social Science"
       },
       {
