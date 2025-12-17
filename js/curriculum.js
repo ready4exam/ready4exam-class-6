@@ -225,7 +225,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Our Country – India",
-        "table_id": "",
+        "table_id": "social_our_india_6_quiz",
         "section": "Social Science"
       },
       {
