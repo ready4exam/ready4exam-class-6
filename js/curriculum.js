@@ -310,7 +310,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Mensuration",
-        "table_id": "",
+        "table_id": "mathematics_mensuration_mensuration_6_quiz",
         "section": "Mathematics"
       }
     ]
