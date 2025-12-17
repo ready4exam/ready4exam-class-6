@@ -283,7 +283,7 @@ export const curriculum = {
     "Algebra": [
       {
         "chapter_title": "Introduction to Algebra",
-        "table_id": "",
+        "table_id": "mathematics_introduction_algebra_6_quiz",
         "section": "Mathematics"
       },
       {
