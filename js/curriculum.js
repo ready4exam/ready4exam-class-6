@@ -205,7 +205,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Motions of the Earth",
-        "table_id": "",
+        "table_id": "social_motions_earth_6_quiz",
         "section": "Social Science"
       },
       {
