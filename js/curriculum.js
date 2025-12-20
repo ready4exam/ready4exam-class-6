@@ -210,7 +210,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Maps",
-        "table_id": "",
+        "table_id": "social_maps_maps_6_quiz",
         "section": "Social Science"
       },
       {
