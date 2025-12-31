@@ -13,7 +13,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Light, Shadows and Reflections",
-        "table_id": "",
+        "table_id": "science_light_reflections_6_quiz",
         "section": "Science"
       },
       {
