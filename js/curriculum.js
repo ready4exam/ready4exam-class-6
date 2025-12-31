@@ -18,7 +18,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Motion and Measurement of Distances",
-        "table_id": "",
+        "table_id": "science_motion_distances_6_quiz",
         "section": "Science"
       }
     ],
