@@ -72,7 +72,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Water",
-        "table_id": "",
+        "table_id": "science_water_water_6_quiz",
         "section": "Science"
       },
       {
