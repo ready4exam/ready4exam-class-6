@@ -62,7 +62,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Body Movements",
-        "table_id": "",
+        "table_id": "science_body_movements_6_quiz",
         "section": "Science"
       },
       {
