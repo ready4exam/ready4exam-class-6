@@ -25,7 +25,7 @@ export const curriculum = {
     "Chemistry": [
       {
         "chapter_title": "Sorting Materials into Groups",
-        "table_id": "",
+        "table_id": "science_sorting_groups_6_quiz",
         "section": "Science"
       },
       {
