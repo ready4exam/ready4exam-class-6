@@ -126,7 +126,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Ashoka, The Emperor Who Gave Up War",
-        "table_id": "",
+        "table_id": "social_ashoka_war_6_quiz",
         "section": "Social Science"
       },
       {
