@@ -121,7 +121,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "New Questions and Ideas",
-        "table_id": "",
+        "table_id": "social_new_ideas_6_quiz",
         "section": "Social Science"
       },
       {
