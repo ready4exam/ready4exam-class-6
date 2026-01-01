@@ -91,7 +91,7 @@ export const curriculum = {
     "History": [
       {
         "chapter_title": "What, Where, How and When?",
-        "table_id": "",
+        "table_id": "social_what_when_6_quiz",
         "section": "Social Science"
       },
       {
