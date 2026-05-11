@@ -195,7 +195,7 @@ export const curriculum = {
     "Geography": [
       {
         "chapter_title": "The Earth in the Solar System",
-        "table_id": "",
+        "table_id": "social_earth_system_6_quiz",
         "section": "Social Science"
       },
       {
