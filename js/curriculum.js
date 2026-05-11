@@ -178,7 +178,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Rural Administration",
-        "table_id": "",
+        "table_id": "social_rural_administration_6_quiz",
         "section": "Social Science"
       },
       {
