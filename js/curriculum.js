@@ -153,7 +153,7 @@ export const curriculum = {
     "Civics": [
       {
         "chapter_title": "Understanding Diversity",
-        "table_id": "",
+        "table_id": "social_understanding_diversity_6_quiz",
         "section": "Social Science"
       },
       {
